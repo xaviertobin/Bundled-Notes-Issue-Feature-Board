@@ -10,7 +10,7 @@ This is the official source for keeping track of progress, reporting bugs and re
 
 - If an issue is critical, please label it as such. Do not mislabel issues to give them more attention - this will typically lead to an issue being closed for mislabelling and slow down a solution.
 
-- Duplicate issues will be deleted straight away. If an issue you've found is affecting you and someone else, give that issue a thumbs up.
+- Duplicate issues will be deleted straight away. If an issue you've found is effecting you and someone else, give that issue a thumbs up.
 
 - Please be polite. I have spent hundreds and hundreds and hundreds of hours working on this app - if there's something you want in the app, no matter how important or critical it might be, please file the request factually, without frustration, without ranting. The vast majority of the time, the only reason a feature you're requesting isn't available yet is because I'm a solo developer and time is finite.
 
