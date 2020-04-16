@@ -4,7 +4,7 @@ This is the official source for keeping track of progress, reporting bugs and re
 
 # Instructions:
 
-- Include context for reported issues, especially if the functionality normally works. This includes what lead to the issue, and devices/OS version you have. Where possible, include screenshots and videos - these can save hours in solving the issue and potentially lead to fast-tracked fixes. Issues with zero detail or that are far toovague will be closed simply on the basis that there's nothing to go off for finding a solution.
+- Include context for reported issues, especially if the functionality normally works. This includes what lead to the issue, and devices/OS version you have. Where possible, include screenshots and videos - these can save hours in solving the issue and potentially lead to fast-tracked fixes. Issues that are far too vague will be closed simply on the basis that there's nothing to go off for finding a solution/the problem is unclear.
 
 - One issue/feature request per post. For example, don't say "Formatting bar doesn't have checklist options + checklists should continue when you go to the next line.". These are two seperate concerns and may be addressed in different updates. These posts will be closed.
 
