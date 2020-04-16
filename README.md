@@ -16,4 +16,6 @@ This is the official source for keeping track of progress, reporting bugs and re
 
 - Discussion about the app in general should be for the bundled subreddit.
 
+- If you want to send a private message regarding the app, for any reason, message the [twitter page](https://twitter.com/bundlednotes) or send a message to the mods on www.reddit.com/r/bundled .
+
 - Be nice!
